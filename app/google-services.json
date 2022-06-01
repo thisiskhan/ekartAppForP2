@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "255579399215",
+    "project_id": "p2ekart",
+    "storage_bucket": "p2ekart.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:255579399215:android:6965fda5993157ab0dd2da",
+        "android_client_info": {
+          "package_name": "com.dev.shopping"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "255579399215-3233mucsv6p73gplcci8vlliudfnm261.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDFETP2AMucQldruZ1PaGNtD0dCP6ZJHA0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "255579399215-3233mucsv6p73gplcci8vlliudfnm261.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
